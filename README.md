@@ -3,12 +3,12 @@
   # Rendered a 3D scene using Unity Hub tool for Game Scene-
                                                         
 
-# Problem Statement:
-# 1.	Model a 3D scene
-# 2.	Apply color and apply interactions
-# 3.	Demonstrate Transformation
-# 4.	Demonstrate Camera effects
-# 5.	Create the scene with appropriate lighting, shading and material properties.
+ Problem Statement:
+ 1.	Model a 3D scene
+ 2.	Apply color and apply interactions
+ 3.	Demonstrate Transformation
+ 4.	Demonstrate Camera effects
+ 5.	Create the scene with appropriate lighting, shading and material properties.
 
 # Screenshots:	
 
