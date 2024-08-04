@@ -1,6 +1,6 @@
 # Computer_Graphics_3D_Game_Scene
   
-  # Rendered a 3D scene using Unity Hub tool for Game-
+  # A 3D scene using Unity Hub tool for Game-
                                                         
 
  Problem Statement:
